@@ -3,5 +3,5 @@
 Features:
 Creates a Bar with a Thick Intersection Point.
 
-#Channel 
+# Channel 
 https://www.youtube.com/@bryanunlimited
